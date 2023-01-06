@@ -26,7 +26,7 @@ sudo /sbin/usbmuxd -f -p
 
 Observação Importante: essa janela deverá ficar aberta em segundo plano durante todo resto do processo de jailbreak, ela será responsável pelos fixes de diversos erros de conexão ou do jailbreak. Recomendo minimizar essa janela pelo restante do procedimento de jailbreak. 
 
-5º) Abrir uma nova janela de terminal dando "cd" na sua pasta do Palera1ngw  (para isso basta abrir a pasta do "Palera1n Gui" e clicar com o mouse direito dentro dela e depois escolher a opção "abrir no terminal"), conecte seu aparelho via cabo usb e bote o comando abaixo:
+5º) Abrir uma nova janela de terminal dando "cd" na sua pasta do Palera1ngw  (para isso basta abrir a pasta do "Palera1n Gui" e clicar com o mouse direito dentro dela e depois escolher a opção "abrir no terminal"), conecte seu aparelho via cabo usb e bote os comandos abaixo:
 
 sudo sh pairdevice.sh
 
