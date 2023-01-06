@@ -14,6 +14,7 @@ https://www.mediafire.com/file/kk0j9r92m0gngho/Palera1n-GUI-LINUX.zip/file
 sudo chmod +x *
 
 sudo sh install.sh
+
 ---------------------------------------------------------------------------------------------------------------------
 
 # Processo:
