@@ -6,7 +6,8 @@ Novo Palera1n Gui-Windows Linux Passos
 https://www.mediafire.com/file/kk0j9r92m0gngho/Palera1n-GUI-LINUX.zip/file
 
 
-2º) Extrair a pasta no arquivo compactado e dar "cd" nesta pasta no terminal do linux;
+2º) Extrair a pasta no arquivo compactado e dar "cd" nesta pasta no terminal do linux, para isso basta abrir a pasta após descompactada e clicar com o mouse direito dentro dela e depois escolher a opção "abrir no terminal".
+É altamente recomendado jogar esta pasta extraída para sua area de trabalho do seu linux antes de abrir no terminal.
 
 
 3º) Para instalar todas dependências automaticamente:
