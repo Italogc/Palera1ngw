@@ -26,16 +26,13 @@ sudo /sbin/usbmuxd -f -p
 
 Observação Importante: essa janela deverá ficar aberta em segundo plano durante todo resto do processo de jailbreak, ela será responsável pelos fixes de diversos erros de conexão ou do jailbreak. Recomendo minimizar essa janela pelo restante do procedimento de jailbreak. 
 
-Abrir uma nova janela de terminal dando "cd" na sua pasta do Palera1ngw  (para isso basta abrir a pasta do "Palera1n Gui" e clicar com o mouse direito dentro dela e depois escolher a opção "abrir no terminal"), conecte seu aparelho via cabo usb e bote o comando abaixo:
+5º) Abrir uma nova janela de terminal dando "cd" na sua pasta do Palera1ngw  (para isso basta abrir a pasta do "Palera1n Gui" e clicar com o mouse direito dentro dela e depois escolher a opção "abrir no terminal"), conecte seu aparelho via cabo usb e bote o comando abaixo:
 
 sudo sh pairdevice.sh
 
-
-5º) abrir um novo terminal dando cd na pasta extraída do palera1n gui acima e dê o seguinte comando:
-
 sudo python3 palera1n-gui.py
 
-Se for sua primeira vez de fazer jailbreak no seu aparelho o programa vai te dar avisos para você confirmar digitando frases no terminal antes de prosseguir para o jailbreak, para isso, basta digitar as frases que pedirem no terminal e teclar enter para cada uma delas.
+5.1) Se for sua primeira vez de fazer jailbreak no seu aparelho o programa vai te dar avisos para você confirmar digitando frases no terminal antes de prosseguir para o jailbreak, para isso, basta digitar as frases que pedirem no terminal e teclar enter para cada uma delas.
 Se facilitar, basta copiar cada uma delas abaixo e colar na janela de terminal e teclar 'enter' em seguida:
 
 Yes, pwn my idevice
@@ -79,7 +76,7 @@ Vale a pena você saber que:
 
 * o modo "semi-tethered" o seu aparelho toda vez que ele desligar vai ficar travado na tela de "modo restauração" e você vai precisar de reexecutar todo processo de jailbreak desse palera1n novamente para que seu aparelho ligue novamente; 
 
-* o modo "tethered" o seu aparelho desligado poderá ligar normalmente mas com o jailbreak desativado até que você reexecute esse processo de jailbreak do palera1n no seu linux, mas esse processo de tethered vai pesar exatamente 12GB de memória de sistema no armazenamento do seu aparelho.
+* o modo "tethered" o seu aparelho desligado poderá ligar normalmente mas com o jailbreak desativado até que você reexecute esse processo de jailbreak do palera1n no seu linux.
 
 
 8º) Após a escolha do passo anterior, na nova janela do programa que abrir você vai ter que digitar a versão exata do ios que está instalada no seu aparelho conectado, por exemplo 16.1.1, e em seguida apertar no botão OK;
